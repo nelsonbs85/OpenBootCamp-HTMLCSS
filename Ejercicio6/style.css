@@ -1,0 +1,11 @@
+.galeria img{
+    width: 300px;   
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+
+}
